@@ -1,0 +1,17 @@
+
+body {background-color:#8EDEF7; background-image: linear-gradient(30deg, #8EDEF7, #a0e6fc, #cdf2fd) ; 
+    font-family: 'Special Gothic Expanded One', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font 
+  
+   }
+
+main {background-color: rgb(255, 255, 255);
+        position: absolute;
+    top: 50%;
+
+left: 50%;
+width: 600px 600px;
+padding: 50px;
+margin: auto;
+border-radius: 30px;}
